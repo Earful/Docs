@@ -1,2 +1,18 @@
 # Docs
-Documents about Earful App.
+
+## Stacks
+
+### Backend
+
+some options...
+
+* Firebase
+* LAMP
+
+### Frontend
+
+* Android
+
+## Milestone 1 5/27
+
+TODOs
